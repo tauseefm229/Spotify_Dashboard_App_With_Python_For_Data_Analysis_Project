@@ -1,11 +1,3 @@
-'''
-python -m venv venv
-source venv/bin/activate  # On Windows use: venv\Scripts\activate
-
-
-pip install dash pandas plotly
-'''
-
 import dash
 from dash import dcc, html, dash_table
 import plotly.express as px
